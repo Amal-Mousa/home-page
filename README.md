@@ -4,4 +4,4 @@
 ## Used Skills: :exclamation:
 * html
 * css
-![](img/)
+![](img/home-page.png)
