@@ -79,6 +79,7 @@ button{
     background: transparent;
     text-transform: uppercase;
     position: relative;
+    overflow:hidden;
 
 }
 span{
